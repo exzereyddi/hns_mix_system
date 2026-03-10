@@ -27,7 +27,6 @@ flash_info.amxx
 hide_knife.amxx
 # ВАЖЕН ТАКОЙ ПОРЯДОК!!
 
-# HNS Mix System
 
 # Как работает?
 
